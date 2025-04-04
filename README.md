@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/End--to--End%20Encryption-00BFFF?style=for-the-badge&logo=security&logoColor=white" alt="E2EE"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
 ### 🖥️ Deployment & Version Control
