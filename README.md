@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Chris here from the Philippines 🇵🇭 | I like development and innovation!</h2>
+<h2 align="left">Hi 👋! Chris here from the Philippines 🇵🇭 | Powered by development and innovation!</h2>
 
 ###
 
