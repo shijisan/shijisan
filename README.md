@@ -2,8 +2,8 @@
 Full-stack Web Developer from the Philippines 🇵🇭 — driven by development and innovation.
 
 ### 🧠 Tech Stack
-**Languages:** TypeScript, JavaScript, Python
-**Frontend:** Next.js, React, Tailwind CSS, ShadCN
+**Languages:** TypeScript, JavaScript, Python   
+**Frontend:** Next.js, React, Tailwind CSS, ShadCN   
 **Backend:** Node.js, Express, FastAPI  
 **Database:** PostgreSQL, Prisma, Supabase  
 **Other Tools:** Redis, Git, Vercel, Linux, Replo
