@@ -13,7 +13,7 @@ Full-stack Web Developer from the Philippines 🇵🇭 — driven by development
 - **Gordon College (Philippines)** — Attended for 1 year (Computer-related course)
 - Mostly self-taught
 
-### Work Experience
+### 💻 Work Experience
 - Almost 2 years of professional experience of Web Developement
 - Currently doing freelance and contractuals
 
