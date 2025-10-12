@@ -1,4 +1,4 @@
-## 👋 Christian James Santos | shijisan
+## 👋 shijisan
 Full-stack Web Developer from the Philippines 🇵🇭 — driven by development and innovation.
 
 ### 🧠 Tech Stack
