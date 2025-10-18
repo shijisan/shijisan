@@ -2,15 +2,15 @@
 Full-stack Web Developer from the Philippines 🇵🇭 — driven by development and innovation.
 
 ### 🧠 Tech Stack
-**Languages:** TypeScript, JavaScript, Python   
-**Frontend:** Next.js, React, Tailwind CSS, ShadCN   
+**Languages:** TypeScript, JavaScript, Python, PHP   
+**Frontend:** Next.js, Laravel, React, Tailwind CSS, ShadCN   
 **Backend:** Node.js, Express, FastAPI  
 **Database:** PostgreSQL, Prisma, Supabase  
-**Other Tools:** Redis, Git, Vercel, Linux, Replo
+**Other Tools:** Redis, Git, Vercel, Linux, Replo, FastAPI
 
 ### 🎓 Education
 - **Subic National High School** — Senior High (Vocational, ICT track)  
-- **Gordon College (Philippines)** — Attended for 1 year (Computer-related course)
+- **Gordon College (Philippines)** — Undergrad (Computer Science)
 - Mostly self-taught
 
 ### 💻 Work Experience
