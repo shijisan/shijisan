@@ -1,12 +1,13 @@
 ## 👋 shijisan
-Full-stack Web Developer from the Philippines 🇵🇭 — driven by development and innovation.
+Full-stack Developer from the Philippines 🇵🇭 — driven by development and innovation.
 
 ### 🧠 Tech Stack
 **Languages:** TypeScript, JavaScript, Python, PHP   
-**Frontend:** Next.js, Laravel, React, Tailwind CSS, ShadCN   
+**Frameworks:** Next.js, Laravel,    
+**Frontend:**: React, React Native, Tailwind CSS, ShadCN
 **Backend:** Node.js, Express, FastAPI  
 **Database:** PostgreSQL, Prisma, Supabase  
-**Other Tools:** Redis, Git, Vercel, Linux, Replo, FastAPI
+**Other Tools:** Redis, Git, Vercel, Linux, Replo, FastAPI, Tanstack
 
 ### 🎓 Education
 - **Subic National High School** — Senior High (Vocational, ICT track)  
@@ -15,7 +16,7 @@ Full-stack Web Developer from the Philippines 🇵🇭 — driven by development
 
 ### 💻 Work Experience
 - Almost 2 years of professional experience of Web Developement
-- Currently doing freelance and contractuals
+- Currently working as a Software Engineer
 
 ### 🌐 Connect
 - **Portfolio:** [shijisan-dev.vercel.app](https://shijisan-dev.vercel.app)  
