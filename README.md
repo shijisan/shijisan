@@ -1,10 +1,10 @@
 ### 🧠 Tech Stack
-**Languages:** TypeScript, JavaScript, Python, PHP
-**Frameworks:** Next.js, Laravel
-**Frontend:**: React, React Native Expo, Tailwind CSS, ShadCN
+**Languages:** TypeScript, JavaScript, Python, PHP  
+**Frameworks:** Next.js, Laravel  
+**Frontend:**: React, React Native Expo, Tailwind CSS, ShadCN  
 **Backend:** Node.js, Express, FastAPI  
 **Database:** PostgreSQL, Prisma, Supabase  
-**Other Tools:** Redis, Git, Vercel, Linux, Replo, Shopify, Tanstack, Fastify
+**Other Tools:** Redis, Git, Vercel, Linux, Replo, Shopify, Tanstack, Fastify  
 
 ### 🎓 Education
 - Second year dropout of Computer Science
